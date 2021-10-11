@@ -3,6 +3,13 @@
 [![Website](https://img.shields.io/website?label=thorsell.io&style=for-the-badge&url=https%3A%2F%2Fthorsell.io)](https://thorsell.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/erikthorsell?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=erikthorsell)
 
+
+## I'm a Husband, Developer, and Triathlete  🏊🏻‍♂️ 🚴🏻‍♂️ 🏃🏻‍♂️
+
+ - 💻 My website and blog: [thorsell.io][website]
+ - ☕ My specialty coffee project: [Kaffefiltret.se][kaffefiltret]
+ - 🗓️ My silly "is it a Holiday" project: [ÄrDetHelgdag.se][ardethelgdag]
+
 ### Connect with me:
 
 [<img align="left" alt="thorsell.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -38,3 +45,5 @@
 [website]: https://thorsell.io
 [twitter]: https://twitter.com/erikthorsell
 [linkedin]: https://linkedin.com/in/thorsellerik
+[kaffefiltret]: https://kaffefiltret.se
+[ardethelgdag]: https://ärdethelgdag.se
