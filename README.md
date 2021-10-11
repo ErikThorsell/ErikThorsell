@@ -11,6 +11,7 @@
  - 💻 My website and blog: [thorsell.io][website]
  - ☕ My specialty coffee project: [Kaffefiltret.se][kaffefiltret]
  - 🗓️ My silly "is it a Holiday" project: [ÄrDetHelgdag.se][ardethelgdag]
+ - Currently training for the IM JKP 70.3 🏊🏻‍♂️ 🚴🏻‍♂️ 🏃🏻‍♂️
 
 ### Connect with me:
 
