@@ -4,8 +4,10 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/erikthorsell?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=erikthorsell)
 
 
-## I'm a Husband, Developer, and Triathlete  🏊🏻‍♂️ 🚴🏻‍♂️ 🏃🏻‍♂️
+## I'm a Husband, DevOps Fanatic, and Triathlete  🏊🏻‍♂️ 🚴🏻‍♂️ 🏃🏻‍♂️
 
+ - 📱 Currently working as a Line Manager at Ericsson.
+ - 🛃 Soon helping [KGH Customs][kgh] develop higher quality software and deliver more frequently!
  - 💻 My website and blog: [thorsell.io][website]
  - ☕ My specialty coffee project: [Kaffefiltret.se][kaffefiltret]
  - 🗓️ My silly "is it a Holiday" project: [ÄrDetHelgdag.se][ardethelgdag]
