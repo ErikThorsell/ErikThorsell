@@ -19,6 +19,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#3](https://github.com/ErikThorsell/erikthorsell.github.io/pull/3) in [ErikThorsell/erikthorsell.github.io](https://github.com/ErikThorsell/erikthorsell.github.io)
+2. 🎉 Merged PR [#1](https://github.com/ErikThorsell/qmk_firmware/pull/1) in [ErikThorsell/qmk_firmware](https://github.com/ErikThorsell/qmk_firmware)
+3. 💪 Opened PR [#1](https://github.com/ErikThorsell/qmk_firmware/pull/1) in [ErikThorsell/qmk_firmware](https://github.com/ErikThorsell/qmk_firmware)
+4. ❗️ Closed issue [#41](https://github.com/kaffefiltret-se/coffee_roaster_scrapers/issues/41) in [kaffefiltret-se/coffee_roaster_scrapers](https://github.com/kaffefiltret-se/coffee_roaster_scrapers)
+5. ❗️ Opened issue [#41](https://github.com/kaffefiltret-se/coffee_roaster_scrapers/issues/41) in [kaffefiltret-se/coffee_roaster_scrapers](https://github.com/kaffefiltret-se/coffee_roaster_scrapers)
 <!--END_SECTION:activity-->
 
 </details>
