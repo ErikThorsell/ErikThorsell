@@ -6,8 +6,7 @@
 
 ## I'm a Husband, DevOps Fanatic, and Triathlete  🏊🏻‍♂️ 🚴🏻‍♂️ 🏃🏻‍♂️
 
- - 📱 Currently working as a Line Manager at [Ericsson][ericsson].
- - 🛃 Soon helping [KGH Customs][kgh] develop higher quality software and deliver more frequently!
+ - 🛃 Helping [KGH Customs][kgh] develop higher quality software and deliver more frequently!
  - 💻 My website and blog: [thorsell.io][website]
  - ☕ My specialty coffee project: [Kaffefiltret.se][kaffefiltret]
  - 🗓️ My silly "is it a Holiday" project: [ÄrDetHelgdag.se][ardethelgdag]
