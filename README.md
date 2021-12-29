@@ -13,6 +13,8 @@
  - Currently training for the IM JKP 70.3 🏊🏻‍♂️ 🚴🏻‍♂️ 🏃🏻‍♂️
 
 ### Connect with me:
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.freepnglogos.com/uploads/linkedin-social-media-logo-7.png" />][linkedin]
 
 [website]: https://thorsell.io
 [twitter]: https://twitter.com/erikthorsell
@@ -20,4 +22,3 @@
 [kaffefiltret]: https://kaffefiltret.se
 [ardethelgdag]: https://ärdethelgdag.se
 [kgh]: https://kghcustoms.com/en/
-[ericsson]: https://www.ericsson.com/en
