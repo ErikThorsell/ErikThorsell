@@ -8,8 +8,6 @@
 
  - 🛃 Helping [KGH Customs][kgh] develop higher quality software and deliver more frequently!
  - 💻 My website and blog: [thorsell.io][website]
- - ☕ My specialty coffee project: [Kaffefiltret.se][kaffefiltret]
- - 🗓️ My silly "is it a Holiday" project: [ÄrDetHelgdag.se][ardethelgdag]
  - Currently training for the IM JKP 70.3 🏊🏻‍♂️ 🚴🏻‍♂️ 🏃🏻‍♂️
 
 ### Connect with me:
@@ -19,6 +17,4 @@
 [website]: https://thorsell.io
 [twitter]: https://twitter.com/erikthorsell
 [linkedin]: https://linkedin.com/in/thorsellerik
-[kaffefiltret]: https://kaffefiltret.se
-[ardethelgdag]: https://ärdethelgdag.se
 [kgh]: https://kghcustoms.com/en/
