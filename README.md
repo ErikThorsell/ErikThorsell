@@ -4,11 +4,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/erikthorsell?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=erikthorsell)
 
 
-## I'm a Husband, DevOps Fanatic, and Triathlete  🏊🏻‍♂️ 🚴🏻‍♂️ 🏃🏻‍♂️
+## I'm a Husband, DevOps Fanatic, and Triathlete
 
  - 🛃 Helping [KGH Customs][kgh] develop higher quality software and deliver more frequently!
  - 💻 My website and blog: [thorsell.io][website]
- - Currently training for the IM JKP 70.3 🏊🏻‍♂️ 🚴🏻‍♂️ 🏃🏻‍♂️
+ - Taking a looong off season before my next triathlon 🏊🏻‍♂️ 🚴🏻‍♂️ 🏃🏻‍♂️
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" />][twitter]
