@@ -9,7 +9,6 @@
  - Training for Borås, Gothenburg, Horla and probably some more races in 2023 🏊🏻‍♂️ 🚴🏻‍♂️ 🏃🏻‍♂️
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.freepnglogos.com/uploads/linkedin-social-media-logo-7.png" />][linkedin]
 
 [website]: https://thorsell.io
