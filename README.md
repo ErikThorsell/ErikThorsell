@@ -6,7 +6,7 @@
 ## I'm a Husband, DevOps Fanatic, and Triathlete
 
  - Helping [Toyota Material Handling][toyota] automate everything!
- - Training for Borås, Gothenburg, Horla and probably some more races in 2023 🏊🏻‍♂️ 🚴🏻‍♂️ 🏃🏻‍♂️
+ - Targeting IM 70.3 JKP and IM Kalmar in 2024
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.freepnglogos.com/uploads/linkedin-social-media-logo-7.png" />][linkedin]
