@@ -5,7 +5,8 @@
 
 ## I'm a Husband, DevOps Fanatic, and Triathlete
 
- - Helping [Toyota Material Handling][toyota] automate everything!
+ - Run my own company (Request for Coffee)
+ - Write code to automate everything I can
  - Targeting IM 70.3 JKP and IM Kalmar in 2024
 
 ### Connect with me:
