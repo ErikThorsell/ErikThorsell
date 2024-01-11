@@ -5,7 +5,7 @@
 
 ## I'm a Husband, DevOps Enthusiast, and Triathlete
 
- - Founder of Request for Coffee, my consultancy who focus on helping companies automate everything!
+ - Founder of Request for Coffee
  - Write code to automate everything I can
  - Targeting IM 70.3 JKP and IM Kalmar in 2024
 
