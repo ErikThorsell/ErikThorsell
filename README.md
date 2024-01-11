@@ -3,9 +3,9 @@
 [![Website](https://img.shields.io/website?label=thorsell.io&style=for-the-badge&url=https%3A%2F%2Fthorsell.io)][website]
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/000870267?domain=https%3A%2F%2Fmastodon.social&logo=Mastodon&style=for-the-badge)][mastodon]
 
-## I'm a Husband, DevOps Fanatic, and Triathlete
+## I'm a Husband, DevOps Enthusiast, and Triathlete
 
- - Run my own company (Request for Coffee)
+ - Founder of Request for Coffee, my consultancy who focus on helping companies automate everything!
  - Write code to automate everything I can
  - Targeting IM 70.3 JKP and IM Kalmar in 2024
 
