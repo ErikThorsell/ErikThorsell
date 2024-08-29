@@ -5,9 +5,9 @@
 
 ## I'm a Husband, DevOps Enthusiast, and Triathlete
 
- - Founder of Request for Coffee
+ - DevOps Transformation Leader and founder of Request for Coffee
  - Write code to automate everything I can
- - Targeting IM 70.3 JKP and IM Kalmar in 2024
+ - Alway looking forward to my next half or full distance triathlon
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.freepnglogos.com/uploads/linkedin-social-media-logo-7.png" />][linkedin]
@@ -15,4 +15,3 @@
 [website]: https://thorsell.io
 [mastodon]: https://mastodon.social/@GLaDER
 [linkedin]: https://linkedin.com/in/thorsellerik
-[toyota]: https://toyota-forklifts.se/
