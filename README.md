@@ -6,8 +6,8 @@
 ## I'm a Husband, DevOps Enthusiast, and Triathlete
 
  - DevOps Transformation Leader and founder of Request for Coffee
- - Write code to automate everything I can
- - Alway looking forward to my next half or full distance triathlon
+ - Writes code to automate everything I can
+ - Always looking forward to my next half or full distance triathlon
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.freepnglogos.com/uploads/linkedin-social-media-logo-7.png" />][linkedin]
